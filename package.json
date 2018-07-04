@@ -1,7 +1,7 @@
 {
-  "name": "jsa-demo-1",
+  "name": "jsa-demo-0",
   "version": "1.0.0",
-  "description": "Smart contract example from https://blog.francium.tech/getting-started-with-ethereum-smart-contracts-and-solidity-6706131cab31",
+  "description": "Smart contract example for a basic Hello World smart contract.",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
